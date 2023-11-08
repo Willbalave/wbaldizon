@@ -1,2 +1,2 @@
 # wbaldizon
-esto es un readme?
+8/11 Creacioón de Repositorio y documento README
